@@ -49,3 +49,11 @@ setMugEntry(0x29,ErsatzMug,2,6,2,4)
 DennisMug:
 #incext PortraitFormatter "Dennis.png"
 setMugEntry(DennisPortrait,DennisMug,2,6,2,4)
+
+Mariya_Mug:
+#incext PortraitFormatter "MariyaMug.png"
+setMugEntry(0x1C, Mariya_Mug, 4, 5, 4, 3)
+
+MichealP_Mug:
+#incext PortraitFormatter "MichealPMug.png"
+setMugEntry(0x26, MichealP_Mug, 4, 5, 4, 3)
